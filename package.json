@@ -24,7 +24,7 @@
     "@semantic-release/git": "^10.0.1",
     "@semantic-release/github": "^11.0.0",
     "@semantic-release/release-notes-generator": "^14.0.1",
-    "@types/node": "^22.7.5",
+    "@types/node": "^22.18.10",
     "commitizen": "^4.3.0",
     "conventional-changelog-conventionalcommits": "^5.0.0",
     "czg": "^1.9.4",
