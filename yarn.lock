@@ -2070,10 +2070,10 @@ cz-conventional-changelog@3.3.0:
   optionalDependencies:
     "@commitlint/load" ">6.1.1"
 
-czg@^1.9.4:
-  version "1.10.1"
-  resolved "https://registry.yarnpkg.com/czg/-/czg-1.10.1.tgz#81b2d1b3e0da8b604f3f8f37331d84f64e3029b3"
-  integrity sha512-melR80u+GA4EWNexwiWkbAPkFkxBqtLMQU4ePmnkF4N9F//8lB9mo1i0PmxphTamhn0N6kRAmnrkFrkRteNW8g==
+czg@^1.12.0:
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/czg/-/czg-1.12.0.tgz#892df369b71127eeb77f5ac851ad81848b03c51c"
+  integrity sha512-LGltcoZ5m7vhe3WNw16QXqd5WurnHegx9V15MwZJtFAU2AVCYLCqDbwxPUgZOnAcdzzooq33ONcU148HOQsjdA==
 
 dargs@^8.0.0:
   version "8.1.0"
